@@ -59,7 +59,7 @@ let RecruiterEmail = function(recipient, sender) {
     this.nextPitch = function() {
         currentPitch++;
         if (currentPitch > pitches.length - 1) {
-            document.location.assign(`mailto:${sender.email}?subject=Hey! I Biryani, I wanted to speak to you about the Craving Executive Officer role in your tummy 🍛!`);
+            document.location.assign(`mailto:${sender.email}?subject=Hey! This is Biryani, I wanted to speak to you about the "Craving Executive Officer" role in your tummy 🍛!`);
         } else {
             elements.pitch.innerHTML = pitches[currentPitch];
             elements.affirmativeResponse.innerHTML = affirmativeResponses[currentPitch];
