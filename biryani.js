@@ -28,7 +28,7 @@ let RecruiterEmail = function(recipient, sender) {
         'Delicious,where a kid or a grandpa, all age groups gorge on you wholeheartedly.',
         'robust and flavorful using varities of cosmetics like cinnamon,cloves,ginger, garlic,cloves and green and black cardamom?.',
         'Stunning ! where pople would fall in love with you, because of the way you can be cooked in dum!',
-        'Staying away from that meaning less "Spicy mich ka Salan'
+        'Staying away from that meaning less Spicy mirch ka Salan🌶'
     ];
 
     let affirmativeResponses = [
