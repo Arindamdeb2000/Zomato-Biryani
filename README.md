@@ -7,6 +7,7 @@ I thought why not to take this to the next level.
 <img src="Biryani.jpeg" height="300" width="200" />
 </div>
 
-# Since i am someone who follows structured approach.I created a dummy bot for the screening quesyion.
-<img src="Biryani CV.jpeg" height="undefined" width="300" />
+# Since i am someone who follows structured approach.I created a dummy bot for the screening questions.
+<img src="Biryani hiring cycle.gif" height="undefined" width="300" />
 </div>
+Here is the fun part : https://bit.ly/Craving_Executive_Officer
