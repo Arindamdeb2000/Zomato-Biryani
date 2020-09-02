@@ -8,6 +8,6 @@ I thought why not to take this to the next level.
 </div>
 
 # Since i am someone who follows structured approach.I created a dummy bot for the screening questions.
-<img src="Biryani hiring cycle.gif" height="undefined" width="300" />
+<img src="Biryani hiring cycle.gif" height="undefined" width="1000" />
 </div>
 Here is the fun part : https://bit.ly/Craving_Executive_Officer
