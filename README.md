@@ -6,7 +6,7 @@ I thought why not to take this to the next level.
 
 <img src="Biryani.jpeg" height="300" width="200" />
 </div>
-<img src="BiryaniCV.jpeg" height="300" width="200" />
+<img src="https://pbs.twimg.com/media/Eg2IDohU0AANB4b?format=jpg&name=large" height="500" width="200" />
 </div>
 
 # Since, i am someone who follows a structured approach.I created a dummy bot for intial screening in sync with the Job Description 😃.
